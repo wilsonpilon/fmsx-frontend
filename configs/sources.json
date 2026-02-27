@@ -1,0 +1,17 @@
+{
+  "file_hunter": {
+    "base_url": "https://download.file-hunter.com/",
+    "catalog_path": "msx/",
+    "download_path": "cache/file_hunter"
+  },
+  "game_db": {
+    "archive_url": "https://romdb.vampier.net/archive/sqllite3db-msxromsdb.zip",
+    "local_zip": "cache/game_db/sqllite3db-msxromsdb.zip",
+    "extract_to": "cache/game_db"
+  },
+  "fmsx": {
+    "documentation_url": "https://fms.komkon.org/fMSX/fMSX.html",
+    "binary_path": "./bin/fmsx",
+    "default_machine": "MSX2+"
+  }
+}
